@@ -1,4 +1,4 @@
-# TelecomX LATAM — Análisis de Churn (Challenge)
+# TelecomX LATAM (Challenge)
 
 Descripción
 - Notebook: [ChallengeTelecomX_LATAM.ipynb](c:\Users\Juve\Downloads\ChallengeTelecomX_LATAM.ipynb)
